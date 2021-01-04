@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# PORTIFOLIO
+Here you can find the summary of my main projects as well as their links for more detailed exploration.
 
-You can use the [editor on GitHub](https://github.com/rmarques0/rmarques0.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [Data Science Salary Estimator](https://github.com/rmarques0/ds_salary_proj)
 
-### Markdown
+**To help data scientists better negotiate their income when they get a job.**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Created a tool that estimates data science salaries (MAE ~ $ 11K) 
+* Scraped over 1000 job descriptions from glassdoor using python and selenium.
+* Engineered features from the text of each job description to quantify the value companies put on the knoledge about some topics: python, excel, aws, sql and spark.
+* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
+* Built a client facing API using flask
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## [Understanding World Happiness](https://www.kaggle.com/rmarques0/world-happiness-overview)
 
-1. Numbered
-2. List
+**This kind of study can also be applied to understand which aspects affect customer and/or employee satisfaction in a Business.**
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+* Built a deep analysis on which factos more contribute to the perception of happiness around the world.
+* Modeled and Optimized a model to better estimate the score the Countries would get based on each of the attributes (MAE ~ 0.38).
+* Tacked questions like: 
+  *_Is this GDP per capita which makes you happy?_
+  *_Is this Perception of Corruption about Goverment, which make you sad?_
+  *_Is this Freedom of Life Choises which makes you happy?_
+  
+  
+  
+  
+## [Business Analysis of a Mobility Company](https://github.com/rmarques0/Business-Analysis-99)  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+* Explored the data and based on them; 
+  *_Created a dashboard with the metrics I believe make sense to their executives._
+  *_Dashboard views relevant metrics to: CEO, CFO and COO_
+* Analyzed each metric to propose improvements, campaighs, focus...
+* Explored the feeling of driver and riders.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rmarques0/rmarques0.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
+  
+  
