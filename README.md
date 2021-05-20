@@ -1,6 +1,9 @@
 # PORTIFOLIO
 Here you can find the summary of my main projects as well as their links for more detailed exploration.
 
+## [Time Series Analysis and Forecast of Total Factor Productivity (TFP)](https://github.com/rmarques0/tfp_analysis)
+## [Handwritten Digit Recognition CNN Practice](https://github.com/rmarques0/mnist_digit_recognition)
+## [Sentiment Analysis for an Mobile App](https://github.com/rmarques0/sentiment_analysis)
 
 ## [Data Science Salary Estimator](https://github.com/rmarques0/ds_salary_proj)
 
@@ -38,10 +41,6 @@ Here you can find the summary of my main projects as well as their links for mor
 * Analyzed each metric to propose improvements, campaighs, focus...
 * Explored the feeling of driver and riders.
 
-  
-  
-## [Time Series Analysis and Forecast of Total Factor Productivity (TFP)](https://github.com/rmarques0/tfp_analysis)
-## [Handwritten Digit Recognition CNN Practice](https://github.com/rmarques0/mnist_digit_recognition)
-## [Sentiment Analysis for an Mobile App](https://github.com/rmarques0/sentiment_analysis)
+ 
 ## [Power BI](https://github.com/rmarques0/dashboards)
 
