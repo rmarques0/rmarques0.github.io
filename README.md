@@ -2,7 +2,6 @@
 Here you can find the summary of my main projects as well as their links for more detailed exploration.
 
 ---
----
 
 <br><br>
 ## [Understand World Happiness](https://www.kaggle.com/rmarques0/world-happiness-overview)
@@ -16,7 +15,17 @@ Here you can find the summary of my main projects as well as their links for mor
   *_Is this Perception of Corruption about Goverment, which make you sad?_
   *_Is this Freedom of Life Choises which makes you happy?_
   
-  
+ <br><br>
+## [Handwritten Digit Recognition CNN Practice](https://github.com/rmarques0/mnist_digit_recognition)
+
+The MNIST dataset is a well-known dataset for image classification. Tensorflow and Keras also provide MNIST dataset directly through their APIs. For the learning purpose, the MNIST dataset is easy to use and experiment with different machine learning techniques.
+* In this notebook, I have covered the necessary steps to approach any Machine Learning Classification Problem.
+* Included Image Visualization for better understanding.
+* Quick Links to the functions I have used to explore it in depth.
+* Basic techniques such as Confusion Matrix, Image Augmentation, etc.
+* I have also compared the results of Model without using CNN and CNN.
+
+
 <br><br>
 ## [Time Series Analysis and Forecast of Total Factor Productivity (TFP)](https://github.com/rmarques0/tfp_analysis)
 
@@ -26,15 +35,6 @@ The measure of TFP is based on 39 variables that measure relative levels of inco
 From 90's to 2000's, the TFP showed a global growth trend concentrated in manufacture sactor, and particularly in Information Technology.<br><br>
 **Over the long term, TFP growth is limited only by the ability of innovators to develop new technologies, and that a larger population makes possible a larger pool of talent to be devoted to research, and thus opens up more potential for innovation.**
 
-<br><br>
-## [Handwritten Digit Recognition CNN Practice](https://github.com/rmarques0/mnist_digit_recognition)
-
-The MNIST dataset is a well-known dataset for image classification. Tensorflow and Keras also provide MNIST dataset directly through their APIs. For the learning purpose, the MNIST dataset is easy to use and experiment with different machine learning techniques.
-* In this notebook, I have covered the necessary steps to approach any Machine Learning Classification Problem.
-* Included Image Visualization for better understanding.
-* Quick Links to the functions I have used to explore it in depth.
-* Basic techniques such as Confusion Matrix, Image Augmentation, etc.
-* I have also compared the results of Model without using CNN and CNN.
 
 <br><br>
 ## [Sentiment Analysis for an Mobile App](https://github.com/rmarques0/sentiment_analysis)
