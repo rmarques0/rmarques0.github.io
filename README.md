@@ -1,7 +1,22 @@
 # Rodrigo Marques Portifolio
 Here you can find the summary of my main projects as well as their links for more detailed exploration.
 
+---
+---
 
+<br><br>
+## [Understand World Happiness](https://www.kaggle.com/rmarques0/world-happiness-overview)
+
+**This kind of study can also be applied to understand which aspects affect customer and/or employee satisfaction in a Business.**
+
+* Built a deep analysis on which factos more contribute to the perception of happiness around the world.
+* Modeled and Optimized a model to better estimate the score the Countries would get based on each of the attributes (MAE ~ 0.38).
+* Tacked questions like: 
+  *_Is this GDP per capita which makes you happy?_
+  *_Is this Perception of Corruption about Goverment, which make you sad?_
+  *_Is this Freedom of Life Choises which makes you happy?_
+  
+  
 <br><br>
 ## [Time Series Analysis and Forecast of Total Factor Productivity (TFP)](https://github.com/rmarques0/tfp_analysis)
 
@@ -38,20 +53,7 @@ Conclusion
 * Scraped over 1000 job descriptions from glassdoor using python and selenium.
 * Engineered features from the text of each job description to quantify the value companies put on the knoledge about some topics: python, excel, aws, sql and spark.
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-* Built a client facing API using flask
-
-<br><br>
-## [Understand World Happiness](https://www.kaggle.com/rmarques0/world-happiness-overview)
-
-**This kind of study can also be applied to understand which aspects affect customer and/or employee satisfaction in a Business.**
-
-* Built a deep analysis on which factos more contribute to the perception of happiness around the world.
-* Modeled and Optimized a model to better estimate the score the Countries would get based on each of the attributes (MAE ~ 0.38).
-* Tacked questions like: 
-  *_Is this GDP per capita which makes you happy?_
-  *_Is this Perception of Corruption about Goverment, which make you sad?_
-  *_Is this Freedom of Life Choises which makes you happy?_
-  
+* Built a client facing API using flask 
   
   
 <br><br>  
